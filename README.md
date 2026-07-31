@@ -13,5 +13,5 @@ This project was created for practice and to improve my AutoCAD Electrical draft
 - PDF Drawing
 - PNG Image
 
-## Author
+## Designed by
 Lakshmi B
