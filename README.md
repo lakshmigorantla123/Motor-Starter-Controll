@@ -12,6 +12,7 @@ This project was created for practice and to improve my AutoCAD Electrical draft
 ## Files Included
 - PDF Drawing
 - PNG Image
+- DWG File
 
 ## Designed By
 Lakshmi B
